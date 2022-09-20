@@ -1,0 +1,20 @@
+{
+  "name": "p21-all-blacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grmnunes/desafio-p21-istemas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grmnunes/desafio-p21-istemas/issues"
+  },
+  "homepage": "https://github.com/grmnunes/desafio-p21-istemas#readme"
+}

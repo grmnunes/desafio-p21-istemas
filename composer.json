@@ -1,0 +1,27 @@
+{
+    "name": "55859/p21-all-blacks",
+    "description": "Projeto realizado como parte do processo seletivo da empresa P21 sistemas",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        },
+        "files": [
+            "app/Framework/Helpers/helpers.php"
+        ]
+    },
+    "config": {
+        "process-timeout": 0
+    },
+    "scripts": {
+        "server": "php -S localhost:8000 -t public"
+    },
+    "authors": [
+        {
+            "name": "Germano Nunes",
+            "email": "grmnunes@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
